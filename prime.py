@@ -1,7 +1,4 @@
-"""Prints all prime numbers less than 100."""
-
 import math
-
 
 def is_prime(n):
     """Return True if n is a prime number, otherwise False."""

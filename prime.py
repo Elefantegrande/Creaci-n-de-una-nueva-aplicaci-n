@@ -11,7 +11,7 @@ def is_prime(n):
 
 
 def main():
-    """Print all prime numbers less than 100."""
+    """Tiene toda la lógica principal."""
     for i in range(100):
         if is_prime(i):
             print(i, end=' ')
